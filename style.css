@@ -1,0 +1,23 @@
+/*Theme name: Dora Dura*/
+.header__list a {
+ color: white;
+}
+.header__body a {
+ color: white;
+}
+.header__body {
+	text-transform: uppercase;
+}
+li {
+
+	list-style-type: none;
+}
+.header__menu{
+	color: white;
+}
+a {
+	text-decoration: none;
+}
+.col-6 a {
+	color: #6c757d;
+}
